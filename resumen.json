@@ -1,0 +1,9 @@
+{
+    "banco": "Banco Ganadero",
+    "sucursal": "Santa Rosa de Cabal, Risaralda",    
+    "titular": "Yuliana Muños",
+    "nro_cuenta": "1752461/08",    
+    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "cbu": "1562244781396451",
+    "abierto": "29/08/2024"
+}
